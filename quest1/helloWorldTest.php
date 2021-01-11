@@ -1,8 +1,12 @@
 <?php
+
+use function PHPSTORM_META\expectedArguments;
+
 include 'helloWorld.php';
 function test()
 {
-    if (helloWorld() === "Hello World!") {
+    $expected = "7\n2\n6\n";
+    if (helloWorld() === $expected) {
         echo ("TECHIO> success true \r\n");
     } else {
         echo ("TECHIO> success false  \r\n");
