@@ -1,6 +1,6 @@
 # Welcome!
 
-Merci de faire les exercices dans l'ordre.
+TECH QUEST へようこそ！
 
 # Exercice 1
 
