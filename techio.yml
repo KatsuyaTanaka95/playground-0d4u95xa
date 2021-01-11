@@ -1,4 +1,10 @@
-title: Simple PHP Template
+title: tech quest1
 plan:
-- title: PHP Snippet
-  statement: statement.md
+- title: PHP on Tech.io
+  statement: markdowns/welcome.md
+projects:
+  first-project:
+    root: /quest1
+    runner:
+      name: php
+      version: latest
